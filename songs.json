@@ -1,14 +1,14 @@
 [
-    {
-        "title": "Special Song 1",
-        "artist": "Sujit Soren",
-        "bg": "https://raw.githubusercontent.com/sujitsoren8114530-tech/Bus-Vala-Music/main/file_00000000960881fa98206ff293401063.png",
-        "url": "https://github.com/sujitsoren8114530-tech/Bus-Vala-Music/raw/refs/heads/main/CHHUWE_DE_NAGPURI_SONG_2025_POP_ANKIT(128k).mp3.mp3"
-    },
-    {
-        "title": "Special Song 2",
-        "artist": "Sujit Soren",
-        "bg": "https://raw.githubusercontent.com/sujitsoren8114530-tech/Bus-Vala-Music/main/file_0000000082c881fabdbf4d284747b86f.png",
-        "url": "YOUR_SECOND_MP3_LINK.mp3"
-    }
+  {
+    "title": "CHHUWE DE NAGPURI",
+    "artist": "Sujit Soren",
+    "bg": "https://raw.githubusercontent.com/sujitsoren8114530-tech/Bus-Vala-Music/main/file_00000000960881fa98206ff293401063.png",
+    "url": "https://raw.githubusercontent.com/sujitsoren8114530-tech/Bus-Vala-Music/refs/heads/main/CHHUWE_DE_NAGPURI_SONG_2025_POP_ANKIT(128k).mp3"
+  },
+  {
+    "title": "Special Song 2",
+    "artist": "Sujit Soren",
+    "bg": "https://raw.githubusercontent.com/sujitsoren8114530-tech/Bus-Vala-Music/main/file_0000000082c881fabdbf4d284747b86f.png",
+    "url": "यहाँ_अपना_RAW_MP3_LINK_डालें"
+  }
 ]
